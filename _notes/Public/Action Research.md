@@ -1,5 +1,8 @@
-# Action Research
-
+---
+title : Action Research
+notetype : feed
+date : 09-04-2022
+---
 > Teacher action research involves a systematic and sustained study of some aspect of teaching and learning.
 <cite>[[Souto-Manning 2012]] p.2</cite>
 

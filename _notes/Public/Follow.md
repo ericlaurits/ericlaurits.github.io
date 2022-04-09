@@ -1,3 +1,8 @@
+---
+title : Follow (NNFFr)
+notetype : feed
+date : 15-12-2021
+---
 # Follow
 _When we follow our data in the [[NNFFr]] [[Action Research]] process, it provides us with a clear path towards our next instructional move. Analyze and interpret._
 

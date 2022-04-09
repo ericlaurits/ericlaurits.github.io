@@ -1,4 +1,9 @@
-# Teacher friendly forms of [[Action Research]]
+---
+title : Teacher Friendly Action Research
+notetype : feed
+date : 15-02-2021
+---
+## Teacher friendly forms of [[Action Research]]
 
 > Pollard & Tann (1987, p. 23) believe that “critical reflection and systematic investigation” of teaching practice should be an integral part of classroom life. Such writers have recommended ‘teacher friendly’ forms of research like self-evaluation, reflection, action research, action enquiry, and case study. And, as indicated at the beginning of this paper, many teachers have successfully researched educational issues using these approaches.
 > <cite>[[Hancock 1997]]</cite> | [Page 8](x-devonthink-item://2A8D1F3C-1C1C-4FF4-8F51-674BC9BD4E64?page=7)

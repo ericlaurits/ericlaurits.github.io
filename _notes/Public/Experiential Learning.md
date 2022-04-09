@@ -1,6 +1,11 @@
+---
+title : Experiential Learning
+notetype : feed
+date : 15-01-2022
+---
 # Experiential Learning
 
-We can call it experiential learning, project based learning, inquiry driven explorations, the nomenclature almost doesn’t matter as much as what it represents. When we teach and learn in a way that
+We can call it experiential learning, project based learning, inquiry driven explorations, the nomenclature almost doesn’t matter as much as what it represents. It is a continuation of [[constructivist]] ideals and beliefs.
 
 Some of my favorite experiences with my students have been when we have broken free from the litany of mandates coming from the county and instead took a step back and said, “Yeah, but what if we could?” When we’re working on communication and clarity of thought, we are crafting podcasts and YouTube style videos that force us, by their very nature, to understand our material so deeply that we can now use our knowledge to persuade, inform, and entertain our audience in a meaningful way. When taught in isolation, we learn of these ideas of **author’s purpose** but have little way for them to take root in our systems, and we end up just regurgitating memorized ideas. When we’re working on researching, note-taking, and executive functioning/organization, we’re building websites, creating a Wiki, or, yes, trying to make a TikTok go viral by examining the systems that make it go. We have built social media profiles for planets, used our knowledge of the water cycle, erosion, and soil conservation to design (and build, of course) water collection systems and culverts around our school playground (and just like that, no more muddy classroom floors!)
 

@@ -1,5 +1,8 @@
-# Altruism
-
+---
+title : Altruism
+notetype : feed
+date : 15-03-2022
+---
 Unsurprisingly, the most common reason that preservice teachers give for wanting to get into teaching were based in **altruism**... This can be thought of as a kind of intrinsic motivation but it's also important to think through the relationship between this type of altruistic motivation and a similar motivation used to bring about colonialism. 
 
 > Altruistic motivations were among the most common reasons the teacher candidates identified for wanting to teach... Three themes account for these motivations, including the single most prominent within our analysis: the desire to make a difference for individual children.
