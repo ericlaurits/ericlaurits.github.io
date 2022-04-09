@@ -1,4 +1,8 @@
-# Frame
+---
+title : Frame (NNFFr)
+notetype : feed
+date : 15-12-2021
+---
 _Framing is the part of the [[NNFFr]] [[Action Research]] process that puts our data in context of our current classroom and it maps on to what is traditionally thought of as the observe stage in action research._ ^49dee1
 
 Within this stage we find the biggest difference between action research and scientific research. Action research is designed to be responsive, nimble, and constantly tweaked and adjusted as it **requires** the researcher to conduct their process in the context of their current classroom. Classrooms vary across schools, counties, states, countries, etc. as action researchers we are specifically interested in the immediacy of the present moment. We're not quite as concerned with large developmental global trends, large _n_, sample groups and many of the more formal aspects of scientific research. AR is all about inquiry and context. Effective, responsive instruction **must** always be bound by context.
