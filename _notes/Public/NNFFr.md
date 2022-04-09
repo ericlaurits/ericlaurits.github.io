@@ -1,3 +1,8 @@
+---
+title : NNFFr
+notetype : feed
+date : 15-03-2021
+---
 # Notice Name Frame Follow and reFrame
 
 _This is a framework (also referred to as NNFFr) that I developed in 2019 while doing action research and co-teaching 5th grade math at Daniels Run Elementary with [[@Ingy Rucker]]. It was first [presented](https://prezi.com/view/RyFpGYA7ijbgUyLsE8O6/) at George Mason University's TIPS night where we were the featured keynote speakers and presented our own action research._
@@ -18,7 +23,7 @@ The traditionally established procedure for action research, plan, act, observe,
 
 ## Frame
 
-To [[Frame]] puts our data in context of the current classroom in front of us and it maps on to what is traditionally thought of as the observe stage in action research. This is the biggest distinction between action research and scientific research. Framing also implies that we're framing our ideas within the context of existing literature on the topic. Of all the struggles continuing to challenge my desire to simplify the understanding and path of action research, incorporating and examining prior data is one of the most difficult.
+To [[Frame (NNFFr)]] puts our data in context of the current classroom in front of us and it maps on to what is traditionally thought of as the observe stage in action research. This is the biggest distinction between action research and scientific research. Framing also implies that we're framing our ideas within the context of existing literature on the topic. Of all the struggles continuing to challenge my desire to simplify the understanding and path of action research, incorporating and examining prior data is one of the most difficult.
 
 
 ## Follow
